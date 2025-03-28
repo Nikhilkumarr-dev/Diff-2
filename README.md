@@ -37,7 +37,7 @@ Before running the project, ensure you have the following installed:
 
 ### Steps to Clone the Repository
 ```sh
-git clone <https://github.com/Nikhilkumarr-dev/Diff-2>
+git clone <clone_link>
 cd Diff-2
 ```
 
