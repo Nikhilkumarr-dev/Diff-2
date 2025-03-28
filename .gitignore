@@ -32,7 +32,6 @@ metals.sbt
 /.worksheet/
 
 # Ignore Scala.js build outputs
-project/project/
 project/target/
 target/
-project/
+

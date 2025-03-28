@@ -1,0 +1,6 @@
+addSbtPlugin("org.scala-js" % "sbt-scalajs" % "1.13.2")
+addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "2.5.2")
+addSbtPlugin("com.vmunier" % "sbt-web-scalajs" % "1.2.0")
+addSbtPlugin("org.scala-js" % "sbt-jsdependencies" % "1.0.2")
+addSbtPlugin("org.scala-js" % "sbt-scalajs-bundler" % "0.21.1")
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "2.0.9")
